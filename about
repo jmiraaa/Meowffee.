@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en"> 
+
+ <head> 
+     <link rel="stylesheet" href="#"> 
+ </head>
+ 
+<meta charset="UTF-8"> 
+<title> Meowffee </title>
+
+<body> 
+        
+     <nav> 
+
+        <div class="logo-container"> 
+
+            <img src="Meowfeelogo.png" width="48px"/> 
+
+        </div>
+     
+        <div class="links-container"> 
+            
+            <a class="link" href="index.html"> Home </a>
+            <a class="link" href="about.html"> About </a>
+            <a class="link" href="menu.html"> Menu </a>
+            <a class="link" href="social.html"> Social</a>
+            <a class="link" href="event.html"> Events</a>
+        
+        </div>
+
+    </nav>
+
+    <h1> Welcome to MOEWFFEE! </h1>
+    <p> Welcome to Meowffee! It’s a cozy little hideaway where you can enjoy a cup of freshly brewed coffee, munch on scrumptious cookies and
+         pastries, all while spending time with our adorable, playful cats. <br>  Whether you're looking for a relaxing spot to unwind or a fun place to hang out with furry
+          friends, we’ve got you covered. Our cats are here to make your day brighter with purrs and cuddles! 🐾☕
+        <br> 
+        <br> 
+        Not only do we serve tasty treats, but every purchase you make helps us support stray cats in need. A portion of our profits goes toward rescuing and caring for 
+        cats who need a little extra love.  So, every time you sip your coffee or snack on a treat, <br>  you're making a big difference in a cat’s life.  Come for the coffee, stay 
+        for the cuddles, and help us give back to those in need! 💖🐱</p>
+
+
+
+</body>
+</html>
